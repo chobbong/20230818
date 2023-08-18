@@ -1,4 +1,2 @@
 streamlit==1.25.0
-mysqlclient
-SQLAlchemy
 pip==23.2.1
